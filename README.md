@@ -15,8 +15,9 @@ _Sir Francis Bacon_
   1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
   1. Crowdfunding, Implementation etc. 
     
-    [[https://github.com/username/repository/blob/master/readme/octocat.png|alt=systems thinking]]
-      
+[[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=systems thinking]]  
+***
+[[https://github.com/charlesfinney/0000_schedule/blob/master/images/PuTTY_configuration.png|alt=PuTTY configuration]]
    ### rediculus Example:
    #### autonomous robotic classroom 
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
