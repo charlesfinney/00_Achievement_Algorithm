@@ -17,11 +17,11 @@ _Sir Francis Bacon_
     
 <img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
  <picture>
-    <source srcset="smaller_landscape.jpg" media="(max-width: 40em) and (orientation: landscape)">
-    <source srcset="smaller_portrait.jpg" media="(max-width: 40em) and (orientation: portrait)">
-    <source srcset="default_landscape.jpg" media="(min-width: 40em) and (orientation: landscape)">
-    <source srcset="default_portrait.jpg" media="(min-width: 40em) and (orientation: portrait)">
-    <img srcset="default_landscape.jpg" alt="My default image">
+    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/smaller_landscape_thinking.jpg" media="(max-width: 40em) and (orientation: landscape)">
+    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/smaller_portrait_thinking.jpg" media="(max-width: 40em) and (orientation: portrait)">
+    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/default_landscape_thinking.jpg" media="(min-width: 40em) and (orientation: landscape)">
+    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/default_thinking.jpg" media="(min-width: 40em) and (orientation: portrait)">
+    <img srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
 </picture>
 ### rediculus Example:
 #### autonomous robotic classroom
