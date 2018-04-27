@@ -8,18 +8,18 @@ _Sir Francis Bacon_
   Conference = Laissez-passer.org - crypto art festival  
   Writing = Pneuma token Whitepaper 
   
-  ## Roadmap
-  1. Resume and/or resreach website (make templates)
-  1. Read or Learn (example solidity course, Pluralsight)
-  1. Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
-  1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
-  1. Crowdfunding, Implementation etc. 
+## Roadmap
+1. Resume and/or resreach website (make templates)
+1. Read or Learn (example solidity course, Pluralsight)
+1. Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
+1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
+1. Crowdfunding, Implementation etc. 
     
-[[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=systems thinking]]  
+[[https://github.com/charlesfinney/to_be_named_integrated_process/readme/thinking.jpg|alt=systems thinking]]  
 ***
 [[https://github.com/charlesfinney/0000_schedule/blob/master/images/PuTTY_configuration.png|alt=PuTTY configuration]]
-   ### rediculus Example:
-   #### autonomous robotic classroom 
+### rediculus Example:
+#### autonomous robotic classroom
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
 1. learn Ardino and hardware skills 
 1. meetup and/or present at Houston Robotics Club find and integrate new team members
