@@ -15,15 +15,14 @@ _Sir Francis Bacon_
 1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
 1. Crowdfunding, Implementation etc. 
     
-<img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systemsthinking">
-  
-***
-  
-[[https://github.com/charlesfinney/0000_schedule/blob/master/images/PuTTY_configuration.png|alt=PuTTY]]
-  
-<img src="https://github.com/charlesfinney/0000_schedule/blob/master/images/PuTTY_configuration.png" alt="PuTTY">
-
-
+<img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
+ <picture>
+    <source srcset="smaller_landscape.jpg" media="(max-width: 40em) and (orientation: landscape)">
+    <source srcset="smaller_portrait.jpg" media="(max-width: 40em) and (orientation: portrait)">
+    <source srcset="default_landscape.jpg" media="(min-width: 40em) and (orientation: landscape)">
+    <source srcset="default_portrait.jpg" media="(min-width: 40em) and (orientation: portrait)">
+    <img srcset="default_landscape.jpg" alt="My default image">
+</picture>
 ### rediculus Example:
 #### autonomous robotic classroom
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
