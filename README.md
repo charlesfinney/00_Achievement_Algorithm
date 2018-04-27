@@ -15,7 +15,7 @@ _Sir Francis Bacon_
 1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
 1. Crowdfunding, Implementation etc. 
     
-[[https://github.com/charlesfinney/to_be_named_integrated_process/readme/thinking.jpg|alt=systemsthinking]]
+<img src="https://github.com/charlesfinney/to_be_named_integrated_process/readme/thinking.jpg" alt="systemsthinking">
   
 ***
   
