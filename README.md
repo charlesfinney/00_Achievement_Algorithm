@@ -4,9 +4,9 @@ Algorithm or framework for all stages on the road to achivement
 _"Reading maketh a full man, conference a ready man, and writing an exact man"_  
 _Sir Francis Bacon_  
   
-  Reading = coursework  
-  Conference = Laissez-passer.org - crypto art festival  
-  Writing = Pneuma token Whitepaper 
+Reading = coursework  
+Conference = Laissez-passer.org - crypto art festival  
+Writing = Pneuma token Whitepaper  
   
 ## Roadmap
 Resume and/or resreach website (make templates)
@@ -17,7 +17,6 @@ Crowdfunding, Implementation etc.
   
 [[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=system]]
     
-<img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
 
 ### rediculus Example:
 #### autonomous robotic classroom
