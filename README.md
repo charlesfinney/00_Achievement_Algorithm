@@ -15,8 +15,9 @@ Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environ
 writing based on what you have learned and/or reaseached (whitepaper & business plan)
 Crowdfunding, Implementation etc.  
   
-[[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=system]]
     
+<img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
+
 
 ### rediculus Example:
 #### autonomous robotic classroom
