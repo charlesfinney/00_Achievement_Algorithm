@@ -9,11 +9,11 @@ _Sir Francis Bacon_
   Writing = Pneuma token Whitepaper 
   
 ## Roadmap
-1. Resume and/or resreach website (make templates)
-1. Read or Learn (example solidity course, Pluralsight)
-1. Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
-1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
-1. Crowdfunding, Implementation etc.  
+Resume and/or resreach website (make templates)
+Read or Learn (example solidity course, Pluralsight)
+Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
+writing based on what you have learned and/or reaseached (whitepaper & business plan)
+Crowdfunding, Implementation etc.  
   
 [[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=system]]
     
