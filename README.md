@@ -13,16 +13,12 @@ _Sir Francis Bacon_
 1. Read or Learn (example solidity course, Pluralsight)
 1. Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
 1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
-1. Crowdfunding, Implementation etc. 
+1. Crowdfunding, Implementation etc.  
+  
+[[https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg|alt=system]]
     
 <img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
- <picture>
-    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/smaller_landscape_thinking.jpg" media="(max-width: 40em) and (orientation: landscape)">
-    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/smaller_portrait_thinking.jpg" media="(max-width: 40em) and (orientation: portrait)">
-    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/default_landscape_thinking.jpg" media="(min-width: 40em) and (orientation: landscape)">
-    <source srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/default_thinking.jpg" media="(min-width: 40em) and (orientation: portrait)">
-    <img srcset="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
-</picture>
+
 ### rediculus Example:
 #### autonomous robotic classroom
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
