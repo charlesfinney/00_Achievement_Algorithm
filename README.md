@@ -15,6 +15,8 @@ _Sir Francis Bacon_
   1. writing based on what you have learned and/or reaseached (whitepaper & business plan)
   1. Crowdfunding, Implementation etc. 
     
+    [[https://github.com/username/repository/blob/master/readme/octocat.png|alt=systems thinking]]
+      
    ### rediculus Example:
    #### autonomous robotic classroom 
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
@@ -22,3 +24,17 @@ _Sir Francis Bacon_
 1. meetup and/or present at Houston Robotics Club find and integrate new team members
 1. whitepaper/business plan or resume
 1. crowdfund implement release 
+  
+
+## Dedication
+  each collaborator can dedicate his contribution:  
+  
+ * Charles Finney - _"To my Father James Daniel Finney who taught me how to read, before I entered Kindergarten, so I would stop chewing up books, and shared his sense of awe about the universe, by demonstrating background radiation of the Big Bang with television static."_
+    
+* Anatoly Bourov- 
+      
+* Troosey -  
+    
+ * John - 
+     
+ * others
