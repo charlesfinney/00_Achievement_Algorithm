@@ -19,7 +19,7 @@ Crowdfunding, Implementation etc.
 <img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
 
 
-### rediculus Example:
+### Ridiculous Example:
 #### autonomous robotic classroom
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
 1. learn Ardino and hardware skills 
