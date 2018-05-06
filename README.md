@@ -1,14 +1,16 @@
-# TO Be Named intgrated Co-Learning process Algorithm
+# Achievement Algorithm &  intgrated Co-Learning process.
 Algorithm or framework for all stages on the road to achivement 
   
 _"Reading maketh a full man, conference a ready man, and writing an exact man"_  
 _Sir Francis Bacon_  
   
-Reading = coursework  
-Conference = Laissez-passer.org - crypto art festival  
-Writing = Pneuma token Whitepaper  
+  why pay money when you can make money organizing gatherings  
+Reading = coursework  | your own code solutions
+Conference = Meetups and Conferences | Laissez-passer.org - crypto art festival  
+Writing = crypto Blogging | our own Pneuma token Whitepaper  
   
-## Roadmap
+## An interchangable Roadmap
+_No matter who, we all could use the same templates and guides from whatever idea to achievement_  
 Resume and/or resreach website (make templates)
 Read or Learn (example solidity course, Pluralsight)
 Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
