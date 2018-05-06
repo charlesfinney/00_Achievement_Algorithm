@@ -1,5 +1,5 @@
 # Achievement Algorithm &  intgrated Co-Learning process.
-Algorithm or framework for all stages on the road to achivement 
+Algorithm or framework for all stages on the road to achievement  
   
 _"Reading maketh a full man, conference a ready man, and writing an exact man"_  
 _Sir Francis Bacon_  
