@@ -10,17 +10,17 @@ Conference = Meetups and Conferences | Laissez-passer.org - crypto art festival
 Writing = crypto Blogging | our own Pneuma token Whitepaper  
   
 ## An interchangable Roadmap
-_No matter who, we all could use the same templates and guides from whatever idea to achievement_  
-Resume and/or resreach website (make templates)
-Read or Learn (example solidity course, Pluralsight)
-Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)
-writing based on what you have learned and/or reaseached (whitepaper & business plan)
+_No matter who, we all could use similar templates and guides from whatever idea to final achievement_  
+Resume and/or resreach website (make templates)  
+Read or Learn (example solidity course, Pluralsight)  
+Corresponding Conferences,Meetups and groups (list meetups, entrepreneur environment)  
+writing based on what you have learned and/or reaseached (whitepaper & business plan)  
 Crowdfunding, Implementation etc.  
   
-    
+  
 <img src="https://github.com/charlesfinney/to_be_named_integrated_process/blob/master/readme/thinking.jpg" alt="systems thinking">
-
-
+  
+  
 ### Ridiculous Example:
 #### autonomous robotic classroom
 1. robotic driving classroom write one page research paper setup repository/webpage + CV webpage 
@@ -29,7 +29,7 @@ Crowdfunding, Implementation etc.
 1. whitepaper/business plan or resume
 1. crowdfund implement release 
   
-
+  
 ## Dedication
   each collaborator can dedicate his contribution:  
   
