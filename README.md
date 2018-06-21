@@ -37,7 +37,7 @@ Crowdfunding, Implementation etc.
 ## Dedication
   each collaborator can dedicate his contribution:  
   
- * Charles Finney - _"To my Father James Daniel Finney who taught me how to read, before I entered Kindergarten, so I would stop chewing up books, and shared his sense of awe about the universe, by demonstrating background radiation of the Big Bang with television static."_
+ * Charles Finney - _"To my Father James Daniel Finney who taught me how to read, before I entered Kindergarten, so I would stop chewing up books, and shared his sense of awe and wonder about the universe, by demonstrating background radiation of the Big Bang with television static."_
     
 * Anatoly Bourov- 
       
